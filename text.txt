@@ -1,1 +1,2 @@
-ѧϰ
+﻿ѧϰ
+Git tracks changes.
